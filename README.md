@@ -1,8 +1,7 @@
-¡Hola!
-Quiero aprovechar al maximo los recursos que ofrece esta experiencia
+Hello world! :D
 
 
-Laura Sofia Peláez Martínez
+Laura Peláez
 <!---
 Laurainnova/Laurainnova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
